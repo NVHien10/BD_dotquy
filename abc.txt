@@ -1,3 +1,4 @@
 cre file
 a1
 c1
+c2
